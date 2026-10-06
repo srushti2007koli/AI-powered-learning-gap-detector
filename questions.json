@@ -1,0 +1,392 @@
+[
+  {
+    "qid": "A1",
+    "question": "Simplify 3x + 2x",
+    "correct_answer": "5x",
+    "topic": "Algebra",
+    "subtopic": "Simplification",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": []
+  },
+  {
+    "qid": "A2",
+    "question": "Expand (x+3)(x+2)",
+    "correct_answer": "x^2+5x+6",
+    "topic": "Algebra",
+    "subtopic": "Expansion",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": []
+  },
+  {
+    "qid": "A3",
+    "question": "Simplify 2(x+4) - 3(x-1)",
+    "correct_answer": "-x+11",
+    "topic": "Algebra",
+    "subtopic": "Distribution",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": []
+  },
+  {
+    "qid": "A4",
+    "question": "Factor x^2 - 9",
+    "correct_answer": "(x-3)(x+3)",
+    "topic": "Algebra",
+    "subtopic": "Factorization",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": []
+  },
+  {
+    "qid": "A5",
+    "question": "If a+b=5 and ab=6, find a^2+b^2",
+    "correct_answer": "13",
+    "topic": "Algebra",
+    "subtopic": "Identities",
+    "difficulty": "hard",
+    "type": "numeric",
+    "marks": 3,
+    "prerequisites": []
+  },
+  {
+    "qid": "A6",
+    "question": "Simplify (x^2-4)/(x-2), stating any restriction",
+    "correct_answer": "x+2, x!=2",
+    "topic": "Algebra",
+    "subtopic": "Rational expressions",
+    "difficulty": "hard",
+    "type": "short_answer",
+    "marks": 3,
+    "prerequisites": []
+  },
+  {
+    "qid": "L1",
+    "question": "Solve 2x + 3 = 11",
+    "correct_answer": "x=4",
+    "topic": "Linear Equations",
+    "subtopic": "One-step/two-step",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": [
+      "Algebra"
+    ]
+  },
+  {
+    "qid": "L2",
+    "question": "Solve x/3 = 5",
+    "correct_answer": "x=15",
+    "topic": "Linear Equations",
+    "subtopic": "One-step/two-step",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": [
+      "Algebra"
+    ]
+  },
+  {
+    "qid": "L3",
+    "question": "Solve 3x - 7 = 2x + 5",
+    "correct_answer": "x=12",
+    "topic": "Linear Equations",
+    "subtopic": "Variables both sides",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": [
+      "Algebra"
+    ]
+  },
+  {
+    "qid": "L4",
+    "question": "Solve 2(x-3) = 10",
+    "correct_answer": "x=8",
+    "topic": "Linear Equations",
+    "subtopic": "Brackets",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": [
+      "Algebra"
+    ]
+  },
+  {
+    "qid": "L5",
+    "question": "Solve x/2 + x/3 = 10",
+    "correct_answer": "x=12",
+    "topic": "Linear Equations",
+    "subtopic": "Fractions",
+    "difficulty": "hard",
+    "type": "numeric",
+    "marks": 3,
+    "prerequisites": [
+      "Algebra"
+    ]
+  },
+  {
+    "qid": "L6",
+    "question": "Solve x+y=10 and x-y=2",
+    "correct_answer": "x=6, y=4",
+    "topic": "Linear Equations",
+    "subtopic": "Simultaneous",
+    "difficulty": "hard",
+    "type": "numeric",
+    "marks": 3,
+    "prerequisites": [
+      "Algebra"
+    ]
+  },
+  {
+    "qid": "Q1",
+    "question": "Roots of x^2-5x+6=0? A) 2,3  B) -2,-3  C) 1,6  D) -1,-6",
+    "correct_answer": "A",
+    "topic": "Quadratic Equations",
+    "subtopic": "Roots",
+    "difficulty": "easy",
+    "type": "mcq",
+    "marks": 1,
+    "prerequisites": [
+      "Linear Equations"
+    ],
+    "distractor_misconceptions": {
+      "A": "correct",
+      "B": "sign error: roots reversed",
+      "C": "picked factor pair of c without checking sum",
+      "D": "sign error and wrong pair"
+    }
+  },
+  {
+    "qid": "Q2",
+    "question": "Solve x^2 - 9 = 0",
+    "correct_answer": "x=3, x=-3",
+    "topic": "Quadratic Equations",
+    "subtopic": "Roots",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": [
+      "Linear Equations"
+    ]
+  },
+  {
+    "qid": "Q3",
+    "question": "Solve x^2 + x - 6 = 0",
+    "correct_answer": "x=2, x=-3",
+    "topic": "Quadratic Equations",
+    "subtopic": "Factorization",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": [
+      "Linear Equations"
+    ]
+  },
+  {
+    "qid": "Q4",
+    "question": "Use the quadratic formula to solve x^2 - 4x - 5 = 0",
+    "correct_answer": "x=5, x=-1",
+    "topic": "Quadratic Equations",
+    "subtopic": "Quadratic formula",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": [
+      "Linear Equations"
+    ]
+  },
+  {
+    "qid": "Q5",
+    "question": "Find the discriminant of 2x^2 - 3x - 2 = 0 and the nature of its roots",
+    "correct_answer": "25, two distinct real roots",
+    "topic": "Quadratic Equations",
+    "subtopic": "Discriminant",
+    "difficulty": "hard",
+    "type": "short_answer",
+    "marks": 3,
+    "prerequisites": [
+      "Linear Equations"
+    ]
+  },
+  {
+    "qid": "Q6",
+    "question": "Solve 2x^2 - 5x - 3 = 0",
+    "correct_answer": "x=3, x=-1/2",
+    "topic": "Quadratic Equations",
+    "subtopic": "Quadratic formula",
+    "difficulty": "hard",
+    "type": "numeric",
+    "marks": 3,
+    "prerequisites": [
+      "Linear Equations"
+    ]
+  },
+  {
+    "qid": "F1",
+    "question": "f(x)=2x+1. Find f(3)",
+    "correct_answer": "7",
+    "topic": "Functions",
+    "subtopic": "Evaluation",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": [
+      "Quadratic Equations"
+    ]
+  },
+  {
+    "qid": "F2",
+    "question": "f(x)=x^2. Find f(-2)",
+    "correct_answer": "4",
+    "topic": "Functions",
+    "subtopic": "Evaluation",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": [
+      "Quadratic Equations"
+    ]
+  },
+  {
+    "qid": "F3",
+    "question": "f(x)=x^2-3x+2. Find f(4)",
+    "correct_answer": "6",
+    "topic": "Functions",
+    "subtopic": "Evaluation",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": [
+      "Quadratic Equations"
+    ]
+  },
+  {
+    "qid": "F4",
+    "question": "f(x)=x+2, g(x)=2x. f(g(3))? A) 8  B) 10  C) 12  D) 5",
+    "correct_answer": "A",
+    "topic": "Functions",
+    "subtopic": "Composition",
+    "difficulty": "medium",
+    "type": "mcq",
+    "marks": 2,
+    "prerequisites": [
+      "Quadratic Equations"
+    ],
+    "distractor_misconceptions": {
+      "A": "correct",
+      "B": "composition order swapped: g(f(3))",
+      "C": "multiplied instead of adding",
+      "D": "added instead of composing"
+    }
+  },
+  {
+    "qid": "F5",
+    "question": "Find the zeros of f(x)=x^2-x-12",
+    "correct_answer": "x=4, x=-3",
+    "topic": "Functions",
+    "subtopic": "Zeros",
+    "difficulty": "hard",
+    "type": "numeric",
+    "marks": 3,
+    "prerequisites": [
+      "Quadratic Equations"
+    ]
+  },
+  {
+    "qid": "F6",
+    "question": "State the domain of f(x)=1/(x-2)",
+    "correct_answer": "all real x except x=2",
+    "topic": "Functions",
+    "subtopic": "Domain",
+    "difficulty": "hard",
+    "type": "short_answer",
+    "marks": 3,
+    "prerequisites": [
+      "Quadratic Equations"
+    ]
+  },
+  {
+    "qid": "C1",
+    "question": "d/dx of x^3",
+    "correct_answer": "3x^2",
+    "topic": "Calculus",
+    "subtopic": "Differentiation",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": [
+      "Functions"
+    ]
+  },
+  {
+    "qid": "C2",
+    "question": "d/dx of 5x",
+    "correct_answer": "5",
+    "topic": "Calculus",
+    "subtopic": "Differentiation",
+    "difficulty": "easy",
+    "type": "numeric",
+    "marks": 1,
+    "prerequisites": [
+      "Functions"
+    ]
+  },
+  {
+    "qid": "C3",
+    "question": "d/dx of x^2 + 3x",
+    "correct_answer": "2x+3",
+    "topic": "Calculus",
+    "subtopic": "Differentiation",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": [
+      "Functions"
+    ]
+  },
+  {
+    "qid": "C4",
+    "question": "Integrate 2x dx",
+    "correct_answer": "x^2 + C",
+    "topic": "Calculus",
+    "subtopic": "Integration",
+    "difficulty": "medium",
+    "type": "numeric",
+    "marks": 2,
+    "prerequisites": [
+      "Functions"
+    ]
+  },
+  {
+    "qid": "C5",
+    "question": "Find the critical points of f(x)=x^3-3x",
+    "correct_answer": "x=1, x=-1",
+    "topic": "Calculus",
+    "subtopic": "Critical points",
+    "difficulty": "hard",
+    "type": "short_answer",
+    "marks": 3,
+    "prerequisites": [
+      "Functions"
+    ]
+  },
+  {
+    "qid": "C6",
+    "question": "d/dx of (x+1)(x-1)",
+    "correct_answer": "2x",
+    "topic": "Calculus",
+    "subtopic": "Differentiation",
+    "difficulty": "hard",
+    "type": "numeric",
+    "marks": 3,
+    "prerequisites": [
+      "Functions"
+    ]
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "student_id": "S1",
+    "qid": "A1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "A2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "A3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "A4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "A5",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "A6",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "omitted restriction x!=2"
+  },
+  {
+    "student_id": "S1",
+    "qid": "L1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "L2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "L3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "L4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "L5",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "L6",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "found x but not y"
+  },
+  {
+    "student_id": "S1",
+    "qid": "Q1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "Q2",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "dropped the negative root"
+  },
+  {
+    "student_id": "S1",
+    "qid": "Q3",
+    "verdict": "incorrect",
+    "error_type": "sign_error",
+    "misconception": "reversed signs of roots when reading factors (x+3)(x-2)"
+  },
+  {
+    "student_id": "S1",
+    "qid": "Q4",
+    "verdict": "incorrect",
+    "error_type": "sign_error",
+    "misconception": "used b instead of -b in the quadratic formula"
+  },
+  {
+    "student_id": "S1",
+    "qid": "Q5",
+    "verdict": "incorrect",
+    "error_type": "sign_error",
+    "misconception": "computed -4ac as -16 instead of +16 when c is negative"
+  },
+  {
+    "student_id": "S1",
+    "qid": "Q6",
+    "verdict": "partial",
+    "error_type": "sign_error",
+    "misconception": "sign of second root dropped"
+  },
+  {
+    "student_id": "S1",
+    "qid": "F1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "F2",
+    "verdict": "incorrect",
+    "error_type": "sign_error",
+    "misconception": "evaluated (-2)^2 as -4"
+  },
+  {
+    "student_id": "S1",
+    "qid": "F3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "F4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "F5",
+    "verdict": "incorrect",
+    "error_type": "sign_error",
+    "misconception": "reversed signs of roots (carry-over from quadratics)"
+  },
+  {
+    "student_id": "S1",
+    "qid": "F6",
+    "verdict": "incorrect",
+    "error_type": "conceptual",
+    "misconception": "restriction placed at wrong value"
+  },
+  {
+    "student_id": "S1",
+    "qid": "C1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "C2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "C3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "C4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S1",
+    "qid": "C5",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "missed x=-1"
+  },
+  {
+    "student_id": "S1",
+    "qid": "C6",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "A1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "A2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "A3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "A4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "A5",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "A6",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "L1",
+    "verdict": "incorrect",
+    "error_type": "careless",
+    "misconception": "arithmetic slip; solves harder items correctly"
+  },
+  {
+    "student_id": "S2",
+    "qid": "L2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "L3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "L4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "L5",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "L6",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "Q1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "Q2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "Q3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "Q4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "Q5",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "did not state nature of roots"
+  },
+  {
+    "student_id": "S2",
+    "qid": "Q6",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "F1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "F2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "F3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "F4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "F5",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "F6",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "C1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "C2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "C3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "C4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "C5",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S2",
+    "qid": "C6",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "A1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "A2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "A3",
+    "verdict": "incorrect",
+    "error_type": "sign_error",
+    "misconception": "negative sign not distributed onto the -1 term"
+  },
+  {
+    "student_id": "S3",
+    "qid": "A4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "A5",
+    "verdict": "incorrect",
+    "error_type": "conceptual",
+    "misconception": "computed 25-6, forgot the 2ab term"
+  },
+  {
+    "student_id": "S3",
+    "qid": "A6",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "omitted restriction x!=2"
+  },
+  {
+    "student_id": "S3",
+    "qid": "L1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "L2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "L3",
+    "verdict": "incorrect",
+    "error_type": "procedural",
+    "misconception": "did not flip sign when moving term across equals"
+  },
+  {
+    "student_id": "S3",
+    "qid": "L4",
+    "verdict": "incorrect",
+    "error_type": "procedural",
+    "misconception": "did not distribute 2 over (x-3)"
+  },
+  {
+    "student_id": "S3",
+    "qid": "L5",
+    "verdict": "incorrect",
+    "error_type": "procedural",
+    "misconception": "added denominators (2+3) instead of finding LCD"
+  },
+  {
+    "student_id": "S3",
+    "qid": "L6",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "found x but not y"
+  },
+  {
+    "student_id": "S3",
+    "qid": "Q1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "Q2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "Q3",
+    "verdict": "incorrect",
+    "error_type": "procedural",
+    "misconception": "chose factor pair without checking the sum"
+  },
+  {
+    "student_id": "S3",
+    "qid": "Q4",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "Q5",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "Q6",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "one root only"
+  },
+  {
+    "student_id": "S3",
+    "qid": "F1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "F2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "F3",
+    "verdict": "incorrect",
+    "error_type": "procedural",
+    "misconception": "substituted into 3x incorrectly: 16-3+2"
+  },
+  {
+    "student_id": "S3",
+    "qid": "F4",
+    "verdict": "incorrect",
+    "error_type": "procedural",
+    "misconception": "composition order swapped: g(f(3))"
+  },
+  {
+    "student_id": "S3",
+    "qid": "F5",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "one zero only"
+  },
+  {
+    "student_id": "S3",
+    "qid": "F6",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "C1",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "C2",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "C3",
+    "verdict": "correct",
+    "error_type": "none",
+    "misconception": ""
+  },
+  {
+    "student_id": "S3",
+    "qid": "C4",
+    "verdict": "partial",
+    "error_type": "incomplete",
+    "misconception": "missing +C"
+  },
+  {
+    "student_id": "S3",
+    "qid": "C5",
+    "verdict": "incorrect",
+    "error_type": "conceptual",
+    "misconception": "found zeros of f instead of critical points"
+  },
+  {
+    "student_id": "S3",
+    "qid": "C6",
+    "verdict": "incorrect",
+    "error_type": "conceptual",
+    "misconception": "expanded but did not differentiate"
+  }
+]

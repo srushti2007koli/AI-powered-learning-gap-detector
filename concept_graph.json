@@ -1,0 +1,24 @@
+{
+  "order": [
+    "Algebra",
+    "Linear Equations",
+    "Quadratic Equations",
+    "Functions",
+    "Calculus"
+  ],
+  "prerequisites": {
+    "Algebra": [],
+    "Linear Equations": [
+      "Algebra"
+    ],
+    "Quadratic Equations": [
+      "Linear Equations"
+    ],
+    "Functions": [
+      "Quadratic Equations"
+    ],
+    "Calculus": [
+      "Functions"
+    ]
+  }
+}
